@@ -1,8 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-
     <h1 align="center"> Hi 👋, I'm Matias Developer </h1>
-
     <h3 align="center">Soy estudiante de Programacion Web, actualmente estudiando
         para poder obtener el certificado de Desarrollador Web Full Stack
         en Argentina Programa, ademas sigo estudiando en plataformas
@@ -12,7 +10,6 @@
         grupales de estudio.
         Estoy en la busqueda de mi primer experiencia laboral, soy muy
         entusiasta y siempre con ganas de mejorar y aprender dia a dia.</h3>
-
 </div>
 
 <div id="badges" align="center">
@@ -28,7 +25,7 @@
 
 - 🪴 I'm currently learnin **React.js, Node.js**
 
-- Website [pmspergge.github.io](pmspergge.github.io)
+- 💻 Personal Website [pmspergge.github.io](pmspergge.github.io)
 
 
 <!--
