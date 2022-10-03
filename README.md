@@ -1,15 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Matias Spergge</h1>
     <h3 align="center">A passionate Developer from Argentina</h3>
-    <h3 align="center">Soy estudiante de Programacion Web, actualmente estudiando
-        para poder obtener el certificado de Desarrollador Web Full Stack
-        en Argentina Programa, ademas sigo estudiando en plataformas
-        online como Platzi o udemy, soy autodidacta y creativo, me gusta
-        aprender nuevas tecnologías e investigar. Siempre estoy en
-        constante aprendizaje y llevando todo a la practica con proyectos
-        grupales de estudio.
-        Estoy en la busqueda de mi primer experiencia laboral, soy muy
-        entusiasta y siempre con ganas de mejorar y aprender dia a dia.</h3>
+    <h3 align="center">I am a student of Web Programming, currently studying to obtain the Full Stack Web Developer certificate in Argentina Program, I also continue studying on online platforms such as Platzi or udemy, I am self-taught and creative, I like to learn new technologies and investigate. I am always in constant learning and doing everything in practice with group study projects. I am looking for my first work experience, I am very enthusiastic and always wanting to improve and learn day by day.</h3>
 </div>
 
 <div id="badges" align="center">
