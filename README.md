@@ -5,12 +5,6 @@
 </h3>
 </div>
 
-<div id="badges" align="center">
-    <a href="https://twitch.tv/mattlio">
-      <img src="https://img.shields.io/twitch/status/mattlio?color=red&logo=Twitch&style=for-the-badge" alt="Twitter badge">
-    </a>
-</div>
-
 ---
 ### 😶‍🌫️ About Me :
 
