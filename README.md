@@ -1,15 +1,8 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Matias Spergge</h1>
     <h3 align="center">Junior Full Stack web developer passionate about technology and problem solving.</h3>
-    <h3 align="center">I am a junior Full Stack web developer with experience in a wide range of technologies, including HTML, CSS, JavaScript, Angular 15, TypeScript, Java, Spring Boot, SQL, and MySQL. I am seeking opportunities to apply my skills and knowledge in challenging and constantly evolving projects, with the aim of learning and growing in my professional career. I am passionate about technology and enjoy problem-solving and facing new challenges as part of a team.
-
-During my programming education, I have worked on several school projects as well as personal projects that have allowed me to put my skills into practice and learn new technologies and tools. As a Full Stack developer, I am able to work on both the frontend and backend of applications, which allows me to have a broader view of software development and contribute in all aspects of the project.
-
-I am passionate about technology and I enjoy staying up to date with the latest trends and tools in the market. I am an advocate for a culture of continuous learning and I enjoy challenges that allow me to grow professionally. I like working in a team and collaborating in problem-solving, as I believe that effective communication and cooperation are fundamental to achieving project objectives.
-
-I am seeking a collaborative and challenging work environment, where I can apply my skills and knowledge in innovative projects. I would like to be part of a team where continuous learning, innovation, and creativity are valued. My goal is to grow as a Full Stack developer and become a standout professional in my field.
-
-If you have any questions or if you would like to talk with me about a job opportunity, please don't hesitate to contact me. I am available to discuss how I can contribute to the success of your company and your team.</h3>
+    <h3 align="center">I am a junior Full Stack web developer with experience in a wide range of technologies, including HTML, CSS, JavaScript, Angular 16, TypeScript, Java, Spring Boot, SQL, etc. I am seeking opportunities to apply my skills and knowledge in challenging and constantly evolving projects, with the aim of learning and growing in my professional career. I am passionate about technology and enjoy problem-solving and facing new challenges as part of a team.
+</h3>
 </div>
 
 <div id="badges" align="center">
@@ -33,7 +26,6 @@ If you have any questions or if you would like to talk with me about a job oppor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/matispergge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matispergge" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-matias-spergge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-matias-spergge/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/matiispergge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/matiispergge/" height="30" width="40" /></a>
 <a href="https://instagram.com/pmspergge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pmspergge" height="30" width="40" /></a>
