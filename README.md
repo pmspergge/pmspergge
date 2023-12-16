@@ -10,11 +10,9 @@
 
 - 📩 How to reach me **pmatiasspergge@gmail.com**
 
-- 🌱 I’m currently learning **Next.JS, Vite.JS, Tailwin CSS, ServerLess**
+- 🌱 I’m currently learning **Java, Spring Boot, AWS, Kubernetes, PossgreSQL**
 
 - 👨‍💻 Personal Website and All of my projects are available at [https://matisperggedev.com.ar](https://matisperggedev.com.ar)
-
-- 💬 Ask me about **html, css, bootstrap 5, JavaScript, React.js, Angular, Java, Spring Boot, Node.js**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pedro-matias-spergge/](https://www.linkedin.com/in/pedro-matias-spergge/)
 
