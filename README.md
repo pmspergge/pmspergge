@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Matias Spergge</h1>
     <h3 align="center">Full Stack web developer passionate about technology and problem solving.</h3>
-    <h3 align="center">I am a junior Full Stack web developer with experience in a wide range of technologies, including HTML, CSS, JavaScript, Angular 16, TypeScript, Java, Spring Boot, SQL, etc. I am seeking opportunities to apply my skills and knowledge in challenging and constantly evolving projects, with the aim of learning and growing in my professional career. I am passionate about technology and enjoy problem-solving and facing new challenges as part of a team.
+    <h3 align="center">I am a Full Stack web developer with experience in a wide range of technologies, including HTML, CSS, JavaScript, Angular 16, TypeScript, Java, Spring Boot, SQL, etc. I am seeking opportunities to apply my skills and knowledge in challenging and constantly evolving projects, with the aim of learning and growing in my professional career. I am passionate about technology and enjoy problem-solving and facing new challenges as part of a team.
 </h3>
 </div>
 
